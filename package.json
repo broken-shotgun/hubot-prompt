@@ -6,9 +6,9 @@
     "hubot",
     "random",
     "prompt",
-    "writing",
+    "writing"
   ],
-  "description": "Provides a random prompt.",
+  "description": "Provides a random prompt",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/broken-shotgun/hubot-prompt.git"
