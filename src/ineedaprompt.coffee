@@ -12,7 +12,7 @@
 #   hubot prompt (adjective|noun|adverb|verb|location) - provides a prompt with the specified types
 #
 # Author:
-#   ickybodclay
+#   KingOfBananas
 request = require "request"
 
 module.exports = (robot) ->

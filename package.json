@@ -1,0 +1,22 @@
+{
+  "name": "hubot-prompt",
+  "version": "1.0.0",
+  "author": "Broken Shotgun",
+  "keywords": [
+    "hubot",
+    "random",
+    "prompt",
+    "writing",
+  ],
+  "description": "Provides a random prompt.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broken-shotgun/hubot-prompt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/broken-shotgun/hubot-prompt/issues"
+  },
+  "homepage": "https://github.com/broken-shotgun/hubot-prompt#readme",
+  "main": "index.coffee",
+  "license": "MIT"
+}
